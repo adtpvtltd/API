@@ -17,7 +17,7 @@ Messenger API is a Node.js application that enables real-time messaging between 
 1. Clone the repository:
 
 ```
-git clone https://github.com/your-username/messenger-api.git
+git clone https://github.com/adtpvtltd/API.git
 ```
 
 ## Navigate to the project directory:
